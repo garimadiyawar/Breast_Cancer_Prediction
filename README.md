@@ -11,7 +11,7 @@ This project uses machine learning to predict whether a breast tumor is benign o
 
 ## 📁 Project Structure
 
-```
+````
 
 ├── breast\_cancer\_prediction.ipynb   # Main notebook with code and visualizations
 ├── breast\_cancer\_data.csv           # Cleaned dataset used for training and testing
@@ -20,7 +20,7 @@ This project uses machine learning to predict whether a breast tumor is benign o
 
 ````
 
----
+
 
 ## Problem Statement
 
@@ -97,7 +97,6 @@ Breast cancer is one of the leading causes of death among women worldwide. Early
    ```bash
    git clone https://github.com/garimadiyawar/breast-cancer-prediction.git
    cd breast-cancer-prediction
-````
 
 2. Install dependencies:
 
