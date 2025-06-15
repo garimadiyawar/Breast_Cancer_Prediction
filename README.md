@@ -1,8 +1,4 @@
-Here's a complete **README.md** file for your GitHub breast cancer prediction project:
 
----
-
-```markdown
 # Breast Cancer Prediction Using Machine Learning
 
 This project uses machine learning to predict whether a breast tumor is benign or malignant based on diagnostic features. The primary goal is to assist in early detection of breast cancer using structured data from the UCI Breast Cancer Wisconsin Diagnostic Dataset.
