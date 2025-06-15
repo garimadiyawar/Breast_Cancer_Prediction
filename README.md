@@ -23,7 +23,7 @@ The app uses a trained **Random Forest Classifier** model to classify breast can
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/your-username/breast-cancer-prediction-app.git
+    git clone https://github.com/garimadiyawar/breast-cancer-prediction-app.git
     cd breast-cancer-prediction-app
     ```
 
